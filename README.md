@@ -1,6 +1,6 @@
 # Hi, I'm Sreeja Jonnala 👋
 
-### Aspiring Full Stack Developer | Entry-Level Candidate
+###Aspiring Full Stack Developer | Fresher 
 
 I'm a fresher developing practical skills in frontend and backend web development. I learn by building projects, exploring databases, and improving my understanding of how complete applications work.
 
