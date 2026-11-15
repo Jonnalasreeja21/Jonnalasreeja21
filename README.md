@@ -1,58 +1,75 @@
 # Hi, I'm Sreeja Jonnala 👋
 
-### Aspiring Full Stack Developer | Fresher
+### Aspiring Full Stack Developer | Entry-Level Candidate
 
-I'm a fresher building my skills in frontend and backend development through hands-on projects. I enjoy creating practical applications, learning how systems work together, and improving my code step by step.
+I'm a fresher developing practical skills in frontend and backend web development. I learn by building projects, exploring databases, and improving my understanding of how complete applications work.
 
-- 🌱 Currently learning and strengthening **React, JavaScript, Python, Flask, and SQL**
-- 💻 Interested in **Full Stack Web Development**
-- 🗄️ Exploring relational databases and backend development
+- 🌱 Currently strengthening **JavaScript, React, Python, Flask, and SQL**
+- 💻 Interested in building **full-stack web applications**
+- 🗄️ Practising database design and backend development
 - 🤖 Learning the fundamentals of **AI and Machine Learning**
-- 🎯 Working toward an entry-level Full Stack Developer opportunity
+- 🎯 Preparing for an entry-level **Full Stack Developer** role
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🧰 Tech Stack
 
-**Frontend:** HTML, CSS, JavaScript, React, Vite  
-**Backend:** Python, Flask  
-**Database:** MySQL, SQL  
-**Data Analysis:** Pandas, NumPy, Matplotlib  
-**Tools:** Git, GitHub, Visual Studio Code
-
----
-
-## 🚀 Projects
-
-### [SmartCart](https://github.com/Jonnalasreeja21/SmartCart)
-A Python Flask and MySQL e-commerce application. The project includes separate admin and user workflows, product management, product browsing, cart, and checkout features.
-
-### [E-Commerce Sales Intelligence System](https://github.com/Jonnalasreeja21/E-Commerce-Sales-Intelligence-System)
-A Python data-analysis project focused on exploring e-commerce sales data, including product performance, regional sales, and monthly trends, with visualizations.
-
-### [CrimeLens SQL Project](https://github.com/Jonnalasreeja21/CrimeLens-SQL-Project)
-A SQL project focused on working with structured crime-related data.
-
-### [LIDS – CAN Bus Intrusion Detection System](https://github.com/Jonnalasreeja21/LIDS-CAN-Bus-Intrusion-Detection-System)
-A project exploring intrusion detection in in-vehicle CAN bus networks.
-
-### [VoicEra](https://github.com/Jonnalasreeja21/VoicEra)
-A forked open-source project related to real-time voice AI infrastructure.
+| Area | Technologies |
+|---|---|
+| Frontend | HTML, CSS, JavaScript, React, Vite |
+| Backend | Python, Flask |
+| Database | MySQL, SQL, SQLite |
+| Data Analysis | Pandas, NumPy, Matplotlib |
+| Tools | Git, GitHub, VS Code |
 
 ---
 
-## 📚 Learning Repositories
+## 🚀 Featured Projects
+
+### 🛒 [SmartCart](https://github.com/Jonnalasreeja21/SmartCart)
+A Flask and MySQL e-commerce application with separate admin and customer workflows. Includes product management, product browsing, cart, address management, checkout, order history, and invoice pages. Payment and email features require provider credentials.
+
+**Technologies:** Python, Flask, MySQL, HTML, CSS, JavaScript
+
+### 📊 [E-Commerce Sales Intelligence System](https://github.com/Jonnalasreeja21/E-Commerce-Sales-Intelligence-System)
+A Python project for analysing e-commerce sales data, exploring product performance and sales trends, and presenting findings through visualisations.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, CSV
+
+### 🗃️ [CrimeLens – Crime Management SQL Project](https://github.com/Jonnalasreeja21/CrimeLens-SQL-Project)
+A MySQL database project for managing and analysing crime-related records. Practises relational tables, joins, views, stored procedures, functions, triggers, transactions, and reports.
+
+**Technologies:** MySQL, SQL
+
+### 🚘 [LIDS – CAN Bus Intrusion Detection System](https://github.com/Jonnalasreeja21/LIDS-CAN-Bus-Intrusion-Detection-System)
+A Flask-based project that simulates CAN bus traffic and presents monitoring and anomaly-detection results through a dashboard.
+
+**Technologies:** Python, Flask, SQLite, HTML, CSS, JavaScript
+
+### 📦 [Inventory Management System](https://github.com/Jonnalasreeja21/Inventory-Management-System)
+A Python application for basic inventory tasks such as adding, viewing, searching, updating, deleting, and selling products.
+
+**Technologies:** Python
+
+### 🎙️ [VoicEra](https://github.com/Jonnalasreeja21/VoicEra)
+An open-source voice AI infrastructure repository that I have forked. I list it here as an open-source project of interest, not as an independently built application.
+
+---
+
+## 📚 Learning & Practice
 
 - [Python Learning](https://github.com/Jonnalasreeja21/Python-learning-)
 - [Cybersecurity Learning](https://github.com/Jonnalasreeja21/CyberSecurity-Learning)
+- [Career Guidance – Frontend Prototype](https://github.com/Jonnalasreeja21/career-guidance)
 
 ---
 
-## 📫 Connect with Me
+## 🤝 Connect
 
 - **Email:** [sreejajonnala7@gmail.com](mailto:sreejajonnala7@gmail.com)
-- **GitHub:** [Jonnalasreeja21](https://github.com/Jonnalasreeja21)
+- **GitHub:** [@Jonnalasreeja21](https://github.com/Jonnalasreeja21)
+- **LinkedIn:** [Sreeja Jonnala](https://www.linkedin.com/in/sreejajonnala/)
 
 ---
 
-*Learning by building, practicing, and continuously improving.*
+*Learning continuously, building projects, and growing as a developer.*
